@@ -1,1 +1,2 @@
-<H1>Just a prototype</H1>
+Console.log("Just a prototype")
+
